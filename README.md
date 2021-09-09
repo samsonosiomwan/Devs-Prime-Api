@@ -2,7 +2,8 @@
 
 ![DevsPrime API](https://github.com/decadevs/devsprime-api/actions/workflows/ci.yml/badge.svg?branch=main)
 
-API Service backing client interfaces
+
+API Service backing client interfaces <a href="https://devsprime.herokuapp.com/swagger/">View Api Documentation </a>
 
 ## Technologies
 
